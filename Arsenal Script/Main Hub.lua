@@ -263,35 +263,35 @@ Performance:CreateToggle("Full Bright", function(enabled)
 end)
 
 tab:CreateButton("Aimbot",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidoLOL/ArsenalScript/main/Arsenal%20Script/Scripts%20For%20MainHub/Arsenal%20AimBot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FunpaySmartBot/ArsenalScript/refs/heads/main/Arsenal%20Script/Scripts%20For%20MainHub/Arsenal%20AimBot.lua"))()
 end)
 
 tab:CreateButton("Silent Aim",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidoLOL/ArsenalScript/main/Arsenal%20Script/Scripts%20For%20MainHub/Silent%20Aim.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FunpaySmartBot/ArsenalScript/refs/heads/main/Arsenal%20Script/Scripts%20For%20MainHub/Silent%20Aim.lua"))()
 end)
 
 tab3:CreateButton("Speed Bypass",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidoLOL/ArsenalScript/main/Arsenal%20Script/Scripts%20For%20MainHub/GuiSpeed.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FunpaySmartBot/ArsenalScript/refs/heads/main/Arsenal%20Script/Scripts%20For%20MainHub/GuiSpeed.lua"))()
 end)
 
 tab4:CreateButton("Modded Guns",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidoLOL/ArsenalScript/main/Arsenal%20Script/Scripts%20For%20MainHub/GunSettings.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FunpaySmartBot/ArsenalScript/refs/heads/main/Arsenal%20Script/Scripts%20For%20MainHub/GunSettings.lua"))()
 end)
 
 tab4:CreateButton("Inf Ammo",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidoLOL/ArsenalScript/main/Arsenal%20Script/Scripts%20For%20MainHub/InfAmmo.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FunpaySmartBot/ArsenalScript/refs/heads/main/Arsenal%20Script/Scripts%20For%20MainHub/InfAmmo.lua"))()
 end)
 
 tab5:CreateButton("Rejoin Server",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidoLOL/ArsenalScript/main/Arsenal%20Script/Scripts%20For%20MainHub/Rejoin.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FunpaySmartBot/ArsenalScript/refs/heads/main/Arsenal%20Script/Scripts%20For%20MainHub/Rejoin.lua"))()
 end)
 
 tab3:CreateButton("Fly Press E",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidoLOL/ArsenalScript/main/Arsenal%20Script/Scripts%20For%20MainHub/Fly.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FunpaySmartBot/ArsenalScript/refs/heads/main/Arsenal%20Script/Scripts%20For%20MainHub/Fly.lua"))()
 end)
 
 tab3:CreateButton("Inf Jump",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SkidoLOL/ArsenalScript/main/Arsenal%20Script/Scripts%20For%20MainHub/Inf%20Jump.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FunpaySmartBot/ArsenalScript/refs/heads/main/Arsenal%20Script/Scripts%20For%20MainHub/Inf%20Jump.lua"))()
 end)
 
 tab5:CreateButton("Mod Bypass",function()
@@ -360,5 +360,6 @@ Button1 = "o0o0o0o",
 Button1 = "Play And Enjoy!",
 Duration = 30 
 })
+
 
 
