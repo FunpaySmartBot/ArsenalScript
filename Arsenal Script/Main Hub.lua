@@ -8,7 +8,7 @@ local tab4 = Main:CreateTab("Weapons")
 local tab5 = Main:CreateTab("Game")
 local tab6 = Main:CreateTab("Visuals")
 
-local qz = loadstring(game:HttpGet(""))()
+local qz = loadstring(game:HttpGet("https://raw.githubusercontent.com/FunpaySmartBot/ArsenalScript/refs/heads/main/Arsenal%20Script/Scripts%20For%20MainHub/EspSettings.lua"))()
 local aj = {
     Players = false,
     Tracers = false,
@@ -360,4 +360,5 @@ Button1 = "o0o0o0o",
 Button1 = "Play And Enjoy!",
 Duration = 30 
 })
+
 
